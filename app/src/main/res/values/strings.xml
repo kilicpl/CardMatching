@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">deneme</string>
+    <string name="buttonIncrease"> +</string>
+    <string name="buttonDecrease"> -</string>
+</resources>
